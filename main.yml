@@ -2,3 +2,4 @@
 - creating httpd.conf from template
 - restarting apache
 - creating document root
+- creating test pages
